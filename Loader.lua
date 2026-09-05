@@ -9996,4 +9996,4 @@
 
 -- if you there to skid go fuck yourself --
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/m7za1/fixlagbym7za/refs/heads/main/loader.lua")()
+https://raw.githubusercontent.com/m7za1/fixlagbym7za/refs/heads/main/loader.lua
