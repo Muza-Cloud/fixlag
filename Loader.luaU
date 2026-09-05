@@ -9993,7 +9993,7 @@
 
 
 
--- so you really wanted to skid my script? -- 
--- GO FUCK YOURSELF, FICKING SKIDDER --
 
-https://raw.githubusercontent.com/m7za1/fixlagbym7za/refs/heads/main/fixlag
+-- if you there to skid go fuck yourself --
+
+https://raw.githubusercontent.com/m7za1/fixlagbym7za/refs/heads/main/loader.lua
